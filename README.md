@@ -1,4 +1,3 @@
-```markdown
 # GeoFlux: Advanced GIS for Soil Erosion Analysis
 
 GeoFlux is a sophisticated Geographic Information System (GIS) designed to predict soil erosion risks and monitor land cover changes over time. This project leverages multi-source remote sensing data, advanced machine learning techniques, and cloud masking to provide high-accuracy risk assessments, empowering policymakers with the tools needed for effective erosion management and sustainable land-use practices.
