@@ -71,11 +71,11 @@ git clone <repository-url>
    Choose the folder corresponding to the desired year (e.g., 2015).
 
 2. **Open code.txt**:  
-   Inside the selected folder, you'll find a file named `code.txt`.  
+   Inside the selected folder, you'll find a file a txt file.  
    Open this file using a text editor.
 
 3. **Copy the JavaScript Code**:  
-   Select all the code within `code.txt` and copy it to your clipboard.
+   Select all the code within it and copy it to your clipboard.
 
 4. **Open Google Earth Engine**:  
    Visit the [Google Earth Engine platform](https://earthengine.google.com/) in your web browser.  
@@ -121,4 +121,3 @@ Contributions to GeoFlux are welcome. Please fork the repository and submit a pu
 ## Acknowledgments
 
 Special thanks to the contributors and data providers who made this project possible.
-```
