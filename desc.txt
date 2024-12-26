@@ -1,0 +1,13 @@
+    GeoFlux: Advanced GIS for Soil Erosion Analysis – Designed a 
+    high-accuracy system leveraging Landsat 8 imagery, 
+    CHIRPS precipitation data, SRTM DEM, and machine learning to 
+    predict soil erosion risks and track land cover changes over time. 
+    Integrated advanced remote sensing techniques, cloud masking, and 
+    key indices like NDVI, slope, and soil erodibility to create detailed
+     risk maps; achieved classification accuracies of 90.8% (2015) 
+     and 89.9% (2020).
+    Key Contributions – Led geospatial algorithm development, 
+    integrated multi-source remote sensing data with 
+    machine learning models, and developed intuitive visualizations 
+    to empower policymakers in effective erosion management and 
+    sustainable land-use practices.
